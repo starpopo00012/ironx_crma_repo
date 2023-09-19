@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/por/ironx_crma_repo/devel -DCMAKE_INSTALL_PREFIX=/home/por/ironx_crma_repo/install -G Unix Makefiles
