@@ -136,6 +136,8 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/por/ironx_crma_repo/build/gtest/cmake_install.cmake")
+  include("/home/por/ironx_crma_repo/build/mic_cam/cmake_install.cmake")
+  include("/home/por/ironx_crma_repo/build/tesr_ros_ironx_driver_pkg/cmake_install.cmake")
 
 endif()
 

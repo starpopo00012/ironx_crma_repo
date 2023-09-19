@@ -1,2 +1,2 @@
-
+mic_cam:tesr_ros_ironx_driver_pkg
 -DCATKIN_DEVEL_PREFIX=/home/por/ironx_crma_repo/devel -DCMAKE_INSTALL_PREFIX=/home/por/ironx_crma_repo/install -G Unix Makefiles

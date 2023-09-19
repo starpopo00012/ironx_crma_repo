@@ -1,0 +1,4 @@
+<launch>
+       <node pkg="mic_cam" type="mic_cap.py" name="cam_cap">
+       </node>
+</launch>

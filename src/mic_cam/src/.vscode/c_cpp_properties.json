@@ -1,0 +1,55 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/por/ws_moveit/devel/include/**",
+        "/home/por/catkin_ws/devel/include/**",
+        "/home/por/ros_workshop_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/por/catkin_ws/src/ArUco_Detec/include/**",
+        "/home/por/catkin_ws/src/ros_tutorials/benewake_ce30c/include/**",
+        "/home/por/ws_moveit/src/moveit/moveit_planners/chomp/chomp_motion_planner/include/**",
+        "/home/por/catkin_ws/src/freenect_stack/freenect_camera/include/**",
+        "/home/por/ws_moveit/src/geometric_shapes/include/**",
+        "/home/por/catkin_ws/src/kuka_experimental/kuka_eki_hw_interface/include/**",
+        "/home/por/catkin_ws/src/kuka_experimental/kuka_rsi_hw_interface/include/**",
+        "/home/por/catkin_ws/src/mic_cam/include/**",
+        "/home/por/ws_moveit/src/moveit/moveit_planners/chomp/chomp_interface/include/**",
+        "/home/por/ws_moveit/src/moveit_resources/prbt_ikfast_manipulator_plugin/include/**",
+        "/home/por/ws_moveit/src/moveit/moveit_ros/benchmarks/include/**",
+        "/home/por/ws_moveit/src/moveit/moveit_plugins/moveit_ros_control_interface/include/**",
+        "/home/por/ws_moveit/src/moveit/moveit_ros/move_group/include/**",
+        "/home/por/ws_moveit/src/moveit/moveit_ros/occupancy_map_monitor/include/**",
+        "/home/por/ws_moveit/src/moveit/moveit_ros/robot_interaction/include/**",
+        "/home/por/ws_moveit/src/moveit/moveit_ros/moveit_servo/include/**",
+        "/home/por/ws_moveit/src/moveit/moveit_setup_assistant/include/**",
+        "/home/por/ws_moveit/src/moveit/moveit_plugins/moveit_simple_controller_manager/include/**",
+        "/home/por/ws_moveit/src/moveit_visual_tools/include/**",
+        "/home/por/tutorial_ws/src/my_navigation/include/**",
+        "/home/por/catkin_ws/src/ros_tutorials/opencv/include/**",
+        "/home/por/ws_moveit/src/moveit/moveit_planners/pilz_industrial_motion_planner/include/**",
+        "/home/por/ws_moveit/src/moveit/moveit_planners/pilz_industrial_motion_planner_testutils/include/**",
+        "/home/por/catkin_ws/src/plt_detect/include/**",
+        "/home/por/ws_moveit/src/rviz_visual_tools/include/**",
+        "/home/por/ws_moveit/src/moveit/moveit_planners/sbpl/core/sbpl_interface/include/**",
+        "/home/por/ws_moveit/src/srdfdom/include/**",
+        "/home/por/tutorial_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/por/tutorial_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/por/tutorial_ws/src/tutorial_gazebo/include/**",
+        "/home/por/catkin_ws/src/your_package/include/**",
+        "/home/por/catkin_ws/src/your_smach/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

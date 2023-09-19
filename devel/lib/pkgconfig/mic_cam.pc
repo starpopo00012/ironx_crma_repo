@@ -1,0 +1,8 @@
+prefix=/home/por/ironx_crma_repo/devel
+
+Name: mic_cam
+Description: Description of mic_cam
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
